@@ -1,0 +1,343 @@
+.titulo-grande {
+  font-size: 22px; /* pa todos */
+}
+
+
+.caja-10 {
+  background: white;
+  border: 2px solid black;
+  position: absolute;
+  max-height: 25px;
+  width: 598px; /* ancho */
+  padding: 10px;
+  margin: 10px;
+  top: 0px;
+  left: 1px;
+}
+
+
+
+
+
+.caja-1{
+    background-image: url('https://images.unsplash.com/photo-1671170046978-d321d1e79a2e?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGVzY2FsYW5kbyUyMHVuYSUyMG1vbnRhJUMzJUIxYXxlbnwwfHwwfHx8MA%3D%3D');
+  border: 2px solid red; 
+  position:absolute;
+  padding:10px; /* espacio entre texto y caja*/
+  margin:0px; /* espacio entre cajas*/
+  display:inline-block; /*las cajas se muestran en linea*/
+  width:599px; /*ancho*/
+  height:460px; /*alto*/
+  left:11px;
+  font-size:10px;
+  
+   background-size: cover;      /* la imagen cubre toda la caja */
+  background-position: center; /* centra la imagen */
+  background-repeat: no-repeat; /* no se repite la imagen */
+    padding-top: 50px; /* Puedes cambiar 20px por más o menos */
+   
+}
+
+.caja-2{
+   border: 2px solid red; 
+  background:white;
+   position:absolute;
+  padding:10px; /* espacio entre texto y caja*/
+  margin:0px; /* espacio entre cajas*/
+  display:inline-block; /*las cajas se muestran en linea*/
+  width:300px; /*ancho*/
+  height:200px; /*alto*/
+  left:10px;
+  font-size:15px;
+   top:489px;
+  left: 11px;
+  
+}
+
+
+  
+  .caja-3 {
+  
+   border: 2px solid red; 
+  position: relative;
+  padding: 10px;       /* espacio entre texto y caja */
+  margin: 0px;         /* espacio entre cajas */
+  display: inline-block;
+  width: 300px;        /* ancho */
+  height: 200px;       /* alto */
+
+ top:480px;
+  left: 302px;
+   background-image: url('https://www.desnivel.com/images/2014/03/tomozfoto-720x440.jpg');
+ 
+   background-size: cover;      /* la imagen cubre toda la caja */
+  background-position: center; /* centra la imagen */
+  background-repeat: no-repeat; /* no se repite la imagen */
+
+}
+
+
+
+
+.caja-4{
+  
+ border: 2px solid red; 
+  position:absolute;
+  padding:10px; /* espacio entre texto y caja*/
+  margin:0px; /* espacio entre cajas*/
+  display:inline-block; /*las cajas se muestran en linea*/
+  width:599px; /*ancho*/
+  height:85px; /*alto*/
+  left:11px;
+  font-size:15px;
+  top: 709px;
+  opacity:0.8;
+   background-image: url('https://guanakolandia.wordpress.com/wp-content/uploads/2011/04/manaslu.jpg');
+ background-size: cover;      /* la imagen cubre toda la caja */
+  background-position: center; /* centra la imagen */
+  background-repeat: no-repeat; /* no se repite la imagen */
+}
+
+
+.caja-5{
+  
+  
+  position:absolute;
+  padding:10px; /* espacio entre texto y caja*/
+  margin:0px; /* espacio entre cajas*/
+  display:inline-block; /*las cajas se muestran en linea*/
+  width:599px; /*ancho*/
+  height:85px; /*alto*/
+  font-size:15px;
+  top: 814px;
+   left:11px;
+   border: 2px solid red; 
+     background-image: url('https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2023/12/11/17023143119038.jpg');
+ background-size: cover;      /* la imagen cubre toda la caja */
+  background-position: center; /* centra la imagen */
+  background-repeat: no-repeat; /* no se repite la imagen */
+    
+}
+
+
+.caja-6{
+   
+   border: 2px solid red; 
+  position:absolute;
+  padding:10px; /* espacio entre texto y caja*/
+  margin:0px; /* espacio entre cajas*/
+  display:inline-block; /*las cajas se muestran en linea*/
+  width:599px; /*ancho*/
+  height:85px; /*alto*/
+  
+  left:11px;
+  font-size:15px;
+  top: 919;
+    opacity:0.9;
+   background-image: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjy0-1aT9BcLc4Q-7DVfUcRkbP7nwEj840IM9f-IQaSP8TF2l4ssDzpylWRZp7rTo80kq4PejXS-p3ncU-FvqTJZxbZA7XuIpFMXzPC9qt5vjjbObn_h7fUY84Xw-aAg-gaTKfHqJzQB9V9/s1600/Denali_National_Park_Alaska.jpg');
+ background-size: cover;      /* la imagen cubre toda la caja */
+  background-position: center; /* centra la imagen */
+  background-repeat: no-repeat; /* no se repite la imagen */
+}
+
+
+.caja-7{
+  
+ 
+ border: 2px solid black; 
+  position: absolute;
+  max-height: 200px;
+  width: 200px;
+  padding: 10px;
+  margin: 10px;
+   width:100px; /*ancho*/
+  height:200px; /*alto*/
+  top:750px;
+  left: 100px;
+  font-size: 8px;
+  
+}
+
+
+
+.caja-8{
+  
+  
+ border: 2px solid black; 
+  position: absolute;
+  max-height: 200px;
+  width: 200px;
+  padding: 10px;
+  margin: 10px;
+   width:100px; /*ancho*/
+  height:200px; /*alto*/
+  top:750px;
+  left: 250px;
+ font-size: 8px; 
+}
+
+
+
+
+.caja-9{
+  
+  
+ border: 2px solid black; 
+  position: absolute;
+  max-height: 200px;
+  width: 200px;
+  padding: 10px;
+  margin: 10px;
+   width:100px; /*ancho*/
+  height:200px; /*alto*/
+  top:750px;
+  left: 400px;
+  font-size: 8px;
+}
+
+
+
+.caja-11{
+  
+  border: 2px solid red; 
+  position: absolute;
+  max-height: 200px;
+
+  margin: 10px;
+  
+  top:478px;
+  left: 81px;
+  
+  padding:10px; /* espacio entre texto y caja*/
+  
+  display:inline-block; /*las cajas se muestran en linea*/
+  width:300px; /*ancho*/
+  height:200px; /*alto*/
+
+  font-size:15px;
+  
+  
+}
+
+
+
+
+
+.cajita-1{
+   border: 2px solid black; 
+     position: absolute;
+   padding:10px;
+  display:inline-block; 
+ width:60px; /*ancho*/
+  height:8px; /*alto*/
+  top: 175;
+  left: 280;
+    background: black;
+  color:white;
+  font-size:12;
+}
+
+
+.cajita-2{
+   border: 2px solid black; 
+     position: absolute;
+   padding:10px;
+  display:inline-block; 
+width:60px; /*ancho*/
+  height:8px; /*alto*/
+  top: 500;
+  left: 540;
+  background: black;
+  color:white;
+  font-size:12;
+}
+
+
+
+.cajita-3{
+   border: 2px solid black; 
+     position: absolute;
+   padding:10px;
+  display:inline-block; 
+ width:60px; /*ancho*/
+  height:8px; /*alto*/
+  top: 650;
+  left: 140;
+    background: black;
+  color:white;
+  font-size:12;
+}
+
+
+.cajita-4{
+     border: 2px solid black; 
+     position: absolute;
+   padding:10px;
+  display:inline-block; 
+  width:60px; /*ancho*/
+  height:8px; /*alto*/
+  top: 780;
+  left: 545;
+    background: black;
+  color:white;
+  font-size:12;
+}
+
+.cajita-5{
+   border: 2px solid black; 
+     position: absolute;
+   padding:10px;
+  display:inline-block; 
+  width:60px; /*ancho*/
+  height:8px; /*alto*/
+  top: 990;
+  left: 280;
+    background: black;
+  color:white;
+  font-size:12;
+}
+
+
+
+.cajita-6{
+   border: 2px solid black; 
+     position: absolute;
+   padding:10px;
+  display:inline-block; 
+  width:60px; /*ancho*/
+  height:8px; /*alto*/
+  top: 935;
+  left: 130;
+    background: black;
+  color:white;
+  font-size:12;
+}
+
+.cajita-7{
+   border: 2px solid black; 
+     position: absolute;
+   padding:10px;
+  display:inline-block; 
+  width:60px; /*ancho*/
+  height:8px; /*alto*/
+  top: 935;
+  left: 430;
+    background: black;
+  color:white;
+  font-size:12;
+}
+
+
+.cajita-8{
+   border: 2px solid black; 
+     position: absolute;
+   padding:10px;
+  display:inline-block; 
+  width:60px; /*ancho*/
+  height:8px; /*alto*/
+  top: 935;
+  left: 280;
+    background: black;
+  color:white;
+  font-size:12;
+}

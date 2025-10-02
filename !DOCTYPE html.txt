@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset=utf-8 />
+<title>Editor JavaScript online - www.cubicfactory.com</title>
+</head>
+<body>
+ <div class="caja-1">
+  
+   <center> <b> El alpinista polaco Tomasz Mackiewicz</b> </center>
+   <br>
+   <center> <b><span class="titulo-grande"> Tomasz Mackiewicz</span></b></center>
+  <br>
+     <center> <b> El alpinista polaco lleva cuatro inviernos en el Nanga Parbat</b> </center>
+  
+  
+  </div>
+  <div class="caja-2">1</div>
+  <div class="caja-3">2</div>
+  <div class="caja-4"> </div>
+  <div class="caja-5"></div>
+  <div class="caja-6"></div>
+    <div class="caja-7">
+  <b><span class="titulo-grande">Nanga Parbat</span></b>
+  <br>
+      <p><b> Su manera de enfrentarse al Nanga Parbat invernal difiere mucho del método de otras expediciones. Él no evita pasar noches y más noches en altura, soportando temperaturas significativamente más bajas que las del campo base e incomodidades notablemente mayores.  </b> </p>
+  
+  
+  </div>
+    <div class="caja-8">
+    <b><span class="titulo-grande">Tomek Mackiewicz </span></b>
+      
+      <p> <b> Fue el primero en llegar al campo base con sus cinco compañerosquienes viajaron a Pakistán el 1 de diciembre y estaban listos para comenzar a trabajar en la montaña el primer día de invierno </b> </p>
+  <br>
+  
+  
+  
+  </div>
+    <div class="caja-9">
+   <b><span class="titulo-grande">Avanzando en la ruta</span></b>
+  
+   <p> <b>  sin prisa pero sin pausa, armado de una paciencia casi infinita y de una perseverancia proverbial. Ha pasado más noches que nadie en altura  y, según ha afirmado, lo continuará intentando hasta el último momento.   </b> </p>
+  </div>
+  
+    
+  <div class="caja-10">
+  
+    <center>  <p> EL ALPINISTA POLACO QUE DUERMA MAS EN EL AIRE QUE LA TIERRA </p> </center>
+  
+  </div>
+
+  
+<div class="caja-11">
+  <b><span class="titulo-grande">ABOUT <br> HE</span></b><br>
+  Tomek Mackiewicz <br>
+  nació en el pueblo de Dzia?oszyn<br>
+  (en la provincia de Lodz) y su<br>
+  evolución como alpinista está<br>
+  indisolublemente ligada al Nanga <br>
+  Parbat.
+</div>
+  
+  
+  <!--////////////////////////////////////////////////-->
+  
+  <div class="cajita-1">Mackiewicz</div>
+  <div class="cajita-2">2010</div>
+  <div class="cajita-3">Mackiewicz</div>
+  <div class="cajita-4">Mackiewicz</div>
+  <div class="cajita-5">Mackiewicz</div>
+  <div class="cajita-6">Mackiewicz</div>
+  <div class="cajita-7">Mackiewicz</div>
+  <div class="cajita-8">Mackiewicz</div>
+</body>
+</html>
